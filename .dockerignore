@@ -1,0 +1,8 @@
+# .dockerignore
+venv
+__pycache__
+*.pyc
+escola.db
+.git
+.vscode
+.tool-versions

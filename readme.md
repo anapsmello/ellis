@@ -59,6 +59,7 @@ Este projeto é uma API desenvolvida com FastAPI para gerenciar alunos, cursos e
 - `database.py`: Configuração do banco de dados SQLite.
 - `routers/`: Diretório com os arquivos de rotas (alunos, cursos, matrículas).
 - `requirements.txt`: Lista de dependências do projeto.
+- `.tool-versions`: Define a versão do python para o asdf
 
 ---
 
